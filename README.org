@@ -1,4 +1,4 @@
 ** Personal Project Stats
 
-[[https://raw.githubusercontent.com/sangster/github-stats/master/generated/languages.svg?token=AAHTL4RXQZ423LYQGRFPKEDAS2R5C]]
-[[https://raw.githubusercontent.com/sangster/github-stats/master/generated/overview.svg?token=AAHTL4TAVJUOSCXLD5MYOX3AS2R6M]]
+[[https://raw.githubusercontent.com/sangster/sangster/master/languages.svg]]
+[[https://raw.githubusercontent.com/sangster/sangster/master/overview.svg]]
